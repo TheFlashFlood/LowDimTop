@@ -1,0 +1,18 @@
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\bin\Debug\FriezePatternDesigner.exe.config
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\bin\Debug\FriezePatternDesigner.exe
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\bin\Debug\FriezePatternDesigner.pdb
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.csprojResolveAssemblyReference.cache
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.FreezePanel.resources
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.Properties.Resources.resources
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.csproj.GenerateResource.Cache
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.exe
+c:\users\cole\documents\visual studio 2013\Projects\FriezePatternDesigner\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.pdb
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\bin\Debug\FriezePatternDesigner.exe.config
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.exe
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.pdb
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\bin\Debug\FriezePatternDesigner.exe
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\bin\Debug\FriezePatternDesigner.pdb
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.FreezePanel.resources
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.Properties.Resources.resources
+C:\Users\Cole\Documents\LowDimTop Final\FriezePatternDesigner\obj\Debug\FriezePatternDesigner.csproj.GenerateResource.Cache
